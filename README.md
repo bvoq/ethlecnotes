@@ -1,4 +1,4 @@
-# ETH polished lecture summaries
+# ETH lecture summaries
 These notes are under BSD 3-clause license.
 
 Disclaimer: I didn't do notes in all courses I visited (duh!)
